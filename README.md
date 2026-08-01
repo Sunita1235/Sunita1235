@@ -6,25 +6,47 @@ I am an Aspiring Data Analyst with a background in Java Backend Development and 
 Currently, I am building my skills in Excel, SQL, Power BI, Python, and Statistics and working on practical data analytics projects involving data cleaning, analysis, visualization, and dashboard development.
 
 🛠️ Skills & Tools
+
 📊 Data Analytics
+
 Excel
+
 SQL
+
 Power BI
+
 Python
+
 Basic Statistics
+
 Data Cleaning
+
 Data Analysis
+
 Data Visualization
+
 Exploratory Data Analysis (EDA)
+
 💻 Programming & Development
+
 Java
+
+
 Spring Boot
+
 REST APIs
+
 Hibernate
+
+
 MySQL
+
 Oracle
+
 Git & GitHub
+
 Postman
+
 Swagger
 
 📈 Data Analytics Projects
