@@ -5,7 +5,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 📍 Bengaluru, India | 💼 Open to Data Analyst roles
 
-🛠️ Skills
+<ins>🛠️ Skills</ins>
 
 <img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
 <img width="97" height="42" alt="image" src="https://github.com/user-attachments/assets/d83a98a6-de77-400c-ad3a-57a4f4a28e87" />
@@ -14,116 +14,74 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 <img width="151" height="41" alt="image" src="https://github.com/user-attachments/assets/e5efa764-df24-48fc-8027-d71629a39a7a" />
 <img width="102" height="45" alt="image" src="https://github.com/user-attachments/assets/b87a6598-1d0a-4d23-9c3a-03c6531a56e1" />
 
-
-📊 Data Analytics
-
-Excel
-
-SQL
-
-Power BI
-
-Python
-
-Basic Statistics
-
-Data Cleaning
-
-Data Analysis
-
-Data Visualization
-
-Exploratory Data Analysis (EDA)
-
-💻 Programming & Development
-
-Java
-
-
-Spring Boot
-
-REST APIs
-
-Hibernate
-
-
-MySQL
-
-Oracle
-
-Git & GitHub
-
-Postman
-
-Swagger
+Area	What I use
+|---|---|
+| **SQL** |	Joins, CTEs, Subqueries, CASE, Window Functions (RANK, DENSE_RANK, LAG), GROUP BY / HAVING, Views
+| **Excel** |	Pivot Tables & Charts, Power Query, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, IF/IFS, Slicers, Dashboards
+| **Power BI** |	Power Query, Data Modeling, DAX, KPI Cards, Slicers, Drill-Through
+| **Python** |	Pandas, NumPy, Matplotlib, Exploratory Data Analysis
+| **Analysis** |	Data Cleaning & Validation, KPI Reporting, Trend Analysis, Business Insights
+| **Other** |	Java, Spring Boot, Git, Agile/JIRA
 
 📈 Data Analytics Projects
 
-🛒 IKEA Sales Analysis Dashboard
+<ins>🛒 IKEA Sales Analysis Dashboard</ins>
 
-Tools: Excel | Pivot Tables | Charts | Slicers | Data Cleaning
+Tools: Excel · Pivot Tables · Slicers · XLOOKUP · SUMIFS
 
-Analyzed sales and customer data
-Created KPI cards for revenue, orders, delivery status and ratings
-Analyzed revenue by product category, state, zone and store city
-Created monthly sales trends
-Analyzed customer age groups and payment methods
-Identified top-performing products and categories
-Built an interactive dashboard using Pivot Tables, Pivot Charts and Slicers
+Analyzed 30,000+ sales records across revenue, orders, products, regions, delivery status and customer segments
+Built an interactive dashboard with KPI cards, Pivot Charts and slicers
 
-🛍️ E-Commerce Sales Analysis
 
-Tools: SQL | Excel | Power BI
+<ins>🗄️ IKEA Inventory Management System</ins>
 
-Analyzed customer orders and sales performance
-Calculated revenue, order volume and delivery metrics
-Used SQL queries for customer, product and sales analysis
-Created business insights from transactional data
+Tools: MySQL · Joins · CTEs · Window Functions
 
-🗄️ SQL Data Analysis Projects
+Designed a relational database with 6 linked tables (Customers, Products, Suppliers, Stores, Orders, Order_Details)
+Used RANK, DENSE_RANK and LAG to analyze store, product, supplier performance and monthly revenue growth
+Identified low-stock, out-of-stock, fast- and slow-moving items
 
-IKEA inventory Management System
-Retail Store Company Analysis
 
-Tools: MySQL
+<ins>📦 Amazon Sales Performance Dashboard</ins>
 
-Worked with SQL concepts including:
+Tools: Excel · Power Query · Pivot Tables · XLOOKUP
 
-SELECT, WHERE, GROUP BY, HAVING
-JOINS
-Subqueries
-CTEs
-Window Functions
-CASE statements
-Aggregate Functions
-Ranking
-Date & String Functions
+Analyzed revenue, regional performance, delivery status, payment methods and cancellations
 
-💼 Previous Experience
-Senior System Engineer — Java Backend Development
 
-Worked with technologies including:
+<ins>📊 Student Addiction Analysis</ins>
 
-Java Spring Boot Hibernate REST API MySQL Oracle Microservices Git Postman Swagger
+Tools: Power BI · Power Query · DAX
 
-This development experience helps me approach data problems with strong logical thinking, problem-solving and technical understanding.
+Cleaned data, modeled relationships and built DAX measures with slicers and drill-through
 
-🎯 Currently Learning
-Advanced SQL
-Python for Data Analysis
-Pandas
-NumPy
-Data Visualization
-Power BI
-Statistics for Data Analysis
-Advanced Excel
-📌 What I'm Looking For
 
-I am looking for opportunities where I can apply my analytical, technical and problem-solving skills to solve real-world business problems using data.
+<ins>🛍️ E-Commerce Database Analysis</ins>
 
-📫 Let's Connect
+Tools: MySQL · Subqueries · CTEs · Window Functions
+
+Solved business problems with SQL and summarized findings for decision-making
+
+
+<ins>💼 Experience</ins>
+
+Senior Investment Manager, Square Yards (2024)
+Business Development Associate, BYJU'S Think & Learn (2024)
+Senior System Engineer, Infosys: GSTN Payments Module, SQL and Excel reporting (2023)
+
+<ins>🎓 Education & Certifications</ins>
+
+B.E. Information Technology, Savitribai Phule Pune University
+Generative AI Skills for Business Intelligence (BI), IBM
+Generative AI Essentials, IBM
+Java Technology Certification
+
+<ins>📫 Let's Connect</ins>
+
 💼 LinkedIn: www.linkedin.com/in/sunita-kumari1235
 📧 Email:sunitakumari6903@gmail.com
 🐙 GitHub: https://github.com/Sunita1235
 
-⭐ Feel free to explore my repositories and data analytics projects!
+⭐ Explore my repositories above to see the dashboards, queries and insights behind each project.
+I am looking for opportunities where I can apply my analytical, technical and problem-solving skills to solve real-world business problems using data.
+
