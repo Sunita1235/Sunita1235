@@ -7,6 +7,9 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 🛠️ Skills
 
+<img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
+
+
 📊 Data Analytics
 
 Excel
