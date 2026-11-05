@@ -9,7 +9,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 ---
 
-<h4>🛠️ Skills</h4>
+<h3>🛠️ Skills</h3>
 
 <img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
 <img width="97" height="42" alt="image" src="https://github.com/user-attachments/assets/d83a98a6-de77-400c-ad3a-57a4f4a28e87" />
@@ -18,7 +18,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 <img width="151" height="41" alt="image" src="https://github.com/user-attachments/assets/e5efa764-df24-48fc-8027-d71629a39a7a" />
 <img width="102" height="45" alt="image" src="https://github.com/user-attachments/assets/b87a6598-1d0a-4d23-9c3a-03c6531a56e1" />
 
----
+
 
 | Area | What I use |
 |---|---|
@@ -30,9 +30,9 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 | **Other** | Java, Spring Boot, Git, Agile/JIRA |
 ---
 
-📈 Data Analytics Projects
+<h3>📈 Data Analytics Projects</h3>
 
-🛒 <ins>IKEA Sales Analysis Dashboard</ins>
+<h4>🛒 IKEA Sales Analysis Dashboard</h4>
 
 Tools: Excel · Pivot Tables · Slicers · XLOOKUP · SUMIFS
 
@@ -40,7 +40,7 @@ Analyzed 30,000+ sales records across revenue, orders, products, regions, delive
 Built an interactive dashboard with KPI cards, Pivot Charts and slicers
 
 
-🗄️ <ins>IKEA Inventory Management System</ins>
+<h4>🗄️ IKEA Inventory Management System</h4>
 
 Tools: MySQL · Joins · CTEs · Window Functions
 
@@ -49,21 +49,21 @@ Used RANK, DENSE_RANK and LAG to analyze store, product, supplier performance an
 Identified low-stock, out-of-stock, fast- and slow-moving items
 
 
-📦 <ins>Amazon Sales Performance Dashboard</ins>
+<h4>📦 Amazon Sales Performance Dashboard</h4>
 
 Tools: Excel · Power Query · Pivot Tables · XLOOKUP
 
 Analyzed revenue, regional performance, delivery status, payment methods and cancellations
 
 
-📊 <ins>Student Addiction Analysis</ins>
+<h4>📊 Student Addiction Analysis</h4>
 
 Tools: Power BI · Power Query · DAX
 
 Cleaned data, modeled relationships and built DAX measures with slicers and drill-through
 
 
-🛍️ <ins>E-Commerce Database Analysis</ins>
+<h4>🛍️ E-Commerce Database Analysis</h4>
 
 Tools: MySQL · Subqueries · CTEs · Window Functions
 
@@ -71,13 +71,13 @@ Solved business problems with SQL and summarized findings for decision-making
 
 ---
 
-💼 <ins>Experience</ins>
+<h4>💼 Experience</h4>
 
 Senior Investment Manager, Square Yards (2024)
 Business Development Associate, BYJU'S Think & Learn (2024)
 Senior System Engineer, Infosys: GSTN Payments Module, SQL and Excel reporting (2023)
 
-🎓 <ins>Education & Certifications</ins>
+<h4>🎓 Education & Certifications</h4>
 
 B.E. Information Technology, Savitribai Phule Pune University
 Generative AI Skills for Business Intelligence (BI), IBM
@@ -86,7 +86,7 @@ Java Technology Certification
 
 ---
 
-📫 <ins>Let's Connect</ins>
+<h4>📫 Let's Connect</h4>
 
 💼 LinkedIn: www.linkedin.com/in/sunita-kumari1235
 📧 Email:sunitakumari6903@gmail.com
