@@ -5,7 +5,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 📍 Bengaluru, India | 💼 Open to Data Analyst roles
 
-<ins>🛠️ Skills</ins>
+🛠️ <ins>Skills</ins>
 
 <img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
 <img width="97" height="42" alt="image" src="https://github.com/user-attachments/assets/d83a98a6-de77-400c-ad3a-57a4f4a28e87" />
@@ -14,8 +14,9 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 <img width="151" height="41" alt="image" src="https://github.com/user-attachments/assets/e5efa764-df24-48fc-8027-d71629a39a7a" />
 <img width="102" height="45" alt="image" src="https://github.com/user-attachments/assets/b87a6598-1d0a-4d23-9c3a-03c6531a56e1" />
 
+---
 
-Area |---|---|	What I use
+Area 	What I use
 
 | **SQL** |	Joins, CTEs, Subqueries, CASE, Window Functions (RANK, DENSE_RANK, LAG), GROUP BY / HAVING, Views
 | **Excel** |	Pivot Tables & Charts, Power Query, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, IF/IFS, Slicers, Dashboards
