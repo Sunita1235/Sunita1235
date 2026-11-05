@@ -10,6 +10,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 <img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
 <img width="97" height="42" alt="image" src="https://github.com/user-attachments/assets/d83a98a6-de77-400c-ad3a-57a4f4a28e87" />
 <img width="142" height="40" alt="image" src="https://github.com/user-attachments/assets/9532aea6-bb3a-469c-9902-cc23fc5f97fa" />
+<img width="131" height="45" alt="image" src="https://github.com/user-attachments/assets/51c903f0-8654-4079-9a08-01fdf44b90e2" />
 
 
 📊 Data Analytics
