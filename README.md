@@ -9,7 +9,7 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 ---
 
-🛠️ <h4>Skills</h4>
+<h4>🛠️ Skills</h4>
 
 <img width="132" height="42" alt="image" src="https://github.com/user-attachments/assets/35c0271a-979a-4896-b9ed-cdf8c3cfe800" />
 <img width="97" height="42" alt="image" src="https://github.com/user-attachments/assets/d83a98a6-de77-400c-ad3a-57a4f4a28e87" />
@@ -20,17 +20,14 @@ I turn raw data into clear business insights. I have a B.E. in Information Techn
 
 ---
 
-Area ---	What I use
-
----
-
-| **SQL** |	Joins, CTEs, Subqueries, CASE, Window Functions (RANK, DENSE_RANK, LAG), GROUP BY / HAVING, Views
-| **Excel** |	Pivot Tables & Charts, Power Query, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, IF/IFS, Slicers, Dashboards
-| **Power BI** |	Power Query, Data Modeling, DAX, KPI Cards, Slicers, Drill-Through
-| **Python** |	Pandas, NumPy, Matplotlib, Exploratory Data Analysis
-| **Analysis** |	Data Cleaning & Validation, KPI Reporting, Trend Analysis, Business Insights
-| **Other** |	Java, Spring Boot, Git, Agile/JIRA
-
+| Area | What I use |
+|---|---|
+| **SQL** | Joins, CTEs, Subqueries, CASE, Window Functions (RANK, DENSE_RANK, LAG), GROUP BY / HAVING, Views |
+| **Excel** | Pivot Tables & Charts, Power Query, XLOOKUP, INDEX-MATCH, SUMIFS, COUNTIFS, IF/IFS, Slicers, Dashboards |
+| **Power BI** | Power Query, Data Modeling, DAX, KPI Cards, Slicers, Drill-Through |
+| **Python** | Pandas, NumPy, Matplotlib, Exploratory Data Analysis |
+| **Analysis** | Data Cleaning & Validation, KPI Reporting, Trend Analysis, Business Insights |
+| **Other** | Java, Spring Boot, Git, Agile/JIRA |
 ---
 
 📈 Data Analytics Projects
