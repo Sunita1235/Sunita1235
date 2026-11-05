@@ -1,7 +1,7 @@
 <h2>Hi, I'm Sunita Kumari 👋</h2>
 
 
-Data Analyst | SQL (MySQL) | Advanced Excel | Power BI | Python
+<h4>Data Analyst | SQL (MySQL) | Advanced Excel | Power BI | Python</h4>
 
 I turn raw data into clear business insights. I have a B.E. in Information Technology, 1+ year of professional experience across technology (Infosys) and business roles (BYJU'S, Square Yards), and hands-on experience in MySQL and Excel on sales, inventory, e-commerce and payment data.
 
