@@ -1,11 +1,11 @@
 Hi, I'm Sunita Kumari 👋
+Data Analyst | SQL (MySQL) | Advanced Excel | Power BI | Python
 
-Aspiring Data Analyst | Ex-Java Developer | Data Analytics Enthusiast
+I turn raw data into clear business insights. I have a B.E. in Information Technology, 1+ year of professional experience across technology (Infosys) and business roles (BYJU'S, Square Yards), and hands-on experience in MySQL and Excel on sales, inventory, e-commerce and payment data.
 
-I am an Aspiring Data Analyst with a background in Java Backend Development and a strong interest in transforming data into meaningful business insights.
-Currently, I am building my skills in Excel, SQL, Power BI, Python, and Statistics and working on practical data analytics projects involving data cleaning, analysis, visualization, and dashboard development.
+📍 Bengaluru, India | 💼 Open to Data Analyst roles
 
-🛠️ Skills & Tools
+🛠️ Skills
 
 📊 Data Analytics
 
